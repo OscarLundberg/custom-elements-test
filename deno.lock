@@ -1,0 +1,16 @@
+{
+  "version": "4",
+  "specifiers": {
+    "jsr:@std/webgpu@~0.224.7": "0.224.7"
+  },
+  "jsr": {
+    "@std/webgpu@0.224.7": {
+      "integrity": "dd1251ffff121ff011c6fedaeda4cb2cd18902db93da704d342cf38ce7530585"
+    }
+  },
+  "workspace": {
+    "dependencies": [
+      "jsr:@std/webgpu@~0.224.7"
+    ]
+  }
+}
